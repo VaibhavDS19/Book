@@ -1,0 +1,33 @@
+body{
+    padding-top: 50px;
+    color: #ffffff !important;
+    background-color: #7fff00 !important;
+}
+.em-tex{
+    color: yellow !important;
+    background-color: black !important;
+}
+.em-text{
+    background-color: #fcba03;
+    color: #000000;
+}
+.jumbotron{
+    color: #0713f2;
+}
+.form{
+    padding: 25px;
+    border-style: solid;
+    border-color: #c0c0c0;
+    background-color: #000000;
+    color: #ffff00;
+}
+.panel-body{
+    background-color : #000000 !important;
+    color: #7fff00 !important;
+}
+.index{
+    background: url(../Images/BooLib.jpg)  top center !important;
+    height: 600px;
+    background-color: #fcba03;
+    color: #000000;
+}
